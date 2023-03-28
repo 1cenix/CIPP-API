@@ -6,5 +6,5 @@
     # To use the Az module in your function app, please uncomment the line below.
     'Az.accounts'   = '2.*'
     'Az.Keyvault'   = '3.*'
-    'AzBobbyTables' = '3.*'
+    'AzBobbyTables' = '2.*'
 }
